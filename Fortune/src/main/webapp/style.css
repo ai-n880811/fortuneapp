@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/*ボタンのCSS*/
+button {
+  background-color: #4CAF50; /*ボタンの通常時の背景色*/
+  color: white; /*ボタンの文字色*/
+  border: none;  /*枠線なし*/
+  padding: 10px; /*ボタン内の上下左右の余白の広さ*/
+  border-radius: 5px; /*角を丸くする*/
+  cursor: pointer; /*マウスカーソルをポインタにする(クリックできる見た目)*/
+  transition: background-color 0.3s ease; /*背景色を0.3秒かけて変化させる*/
+  margin: 5px; /*ボタンの間隔*/
+}
+button:hover {
+  background-color: #FB8C00; /*ホバー時(マウスが乗った時)の背景色*/
+}
