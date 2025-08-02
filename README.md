@@ -25,7 +25,7 @@ GitHubからクローンしたJava WebアプリをTomcatにデプロイする手
 ターミナル（コマンドプロンプト）で好きなフォルダに移動し、以下を実行します。
 ```bash
 git clone https://github.com/ai-n880811/fortuneapp.git
-#
+```
 またはGitHubサイトからZIPをダウンロードし、展開してもOKです。
 
 
